@@ -82,6 +82,7 @@ DOGE>
 
 * [vim-dogescript](https://github.com/valeriangalliat/vim-dogescript): Vim highlighting.
 * [dogescript-mode](https://github.com/alexdantas/dogescript-mode): Emacs highlighting.
+* [dogescript-support](https://marketplace.visualstudio.com/items?itemName=dogescript.dogescript-support): Visual Studio Code highlighting
 
 #### Build plugins
 
